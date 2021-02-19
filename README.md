@@ -21,7 +21,8 @@ From there, I started working on my own version of the bot and here I am.
 - 🔭 I’m currently working on [my own discord bot](https://github.com/Pedro-Pessoa/yagpdb) which was originally forked from [yagpdb](https://github.com/jonas747/yagpdb)
 - 🌱 I’m currently learning [go](https://github.com/golang/go)
 - 📫 How to reach me: you can find me on [discord](https://www.discord.com) `@Pedro Pessoa#8177`
-- ⚡ Fun fact: I have no coding background and I don't aim to work with programming/coding. It is just a hobby :)
+- ⚡ Fun fact: I have no coding background and I don't aim to work with programming/coding. It is just a hobby 😊
+- 🤪 I started liking coding more and more, though. So, eventually, I will, most likely, learn other languages beside go.
 
 ---
 
